@@ -4,7 +4,7 @@ Dashboard Excel interaktif untuk menganalisis 10.000 transaksi penjualan kafe ta
 
 ![Dashboard](dashboard.png)
 
-> Unduh file `cafe_sales_dashboard.xlsx` dan buka di Microsoft Excel agar slicer dapat digunakan.
+> [Unduh cafe_sales_dashboard.xlsx](cafe_sales_dashboard.xlsx) dan buka di Microsoft Excel agar slicer dapat digunakan.
 
 ## Tujuan
 Mengubah data transaksi yang kotor menjadi dashboard yang membantu melihat item
